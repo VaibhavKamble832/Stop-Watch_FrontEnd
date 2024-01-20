@@ -4,3 +4,4 @@
 <h2>Features: </h2>
 <p><b>Start, Stop, and Reset: </b>Basic stopwatch functionality for easy time tracking.</p>
 <p><b>Simple but Attractive Interface:</b> A clean and attractive design for straightforward usability.</p>
+<h2>Technologies used: </h2>
